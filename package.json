@@ -1,0 +1,35 @@
+{
+  "name": "@nomikos/module-koa-common",
+  "version": "1.36.0",
+  "description": "Configura logging, y varios middleware para koa",
+  "author": {
+    "name": "Igor Parra Bastias",
+    "email": "usuario3@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NomikOS/module-koa-common"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/NomikOS"
+  },
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "prettier": "@nomikos/prettierrc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "awilix": "^4.2.2",
+    "elapsed-time": "^0.0.1",
+    "eslint-config-prettier": "^6.11.0",
+    "fejl": "^2.4.1",
+    "moment": "^2.24.0",
+    "pino": "^6.5.1",
+    "rfdc": "^1.1.4",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.11.0"
+  }
+}
