@@ -1,6 +1,6 @@
 {
   "name": "@nomikos/module-koa-common",
-  "version": "1.36.0",
+  "version": "1.37.0",
   "description": "Configura logging, y varios middleware para koa",
   "author": {
     "name": "Igor Parra Bastias",
